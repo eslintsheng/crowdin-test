@@ -1,1 +1,7 @@
-{"view2":"view2","test":"test","eat":"eat"}
+{
+    "view2": "view2",
+    "test": "test",
+    "eat": "eat",
+    "food":"food",
+    "apple":"apple"
+}
