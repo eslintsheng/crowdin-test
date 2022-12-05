@@ -1,8 +1,8 @@
 {
-    "view2": "view2",
+    "view2": "vue2",
     "test": "test",
-    "eat": "eat",
-    "food": "food",
-    "apple": "apple",
-    "pen": "pen"
+    "eat": "manger",
+    "food": "nourriture",
+    "apple": "pomme",
+    "pen": "stylo"
 }
